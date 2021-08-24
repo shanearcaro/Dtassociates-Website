@@ -1,3 +1,4 @@
+import { BrowserRouter as Router, Link } from "react-router-dom";
 import NavItem from "./NavItem";
 
 const Navbar = (props: {mobileView: boolean}) => {
@@ -16,7 +17,13 @@ const Navbar = (props: {mobileView: boolean}) => {
                     <NavItem text="Contact"/>
                 </div>
                 <div className="navbar-signin">
-                    <button>Sign In</button>
+                    <Router >
+                        <Link to="/">
+                            <button>Sign In</button>
+                        </Link>
+                        
+                    </Router>
+                    
                 </div>
             </div>
         </nav>
