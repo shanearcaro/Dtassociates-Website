@@ -1,6 +1,6 @@
 # Dtassociates Painting and Powerwashing Website
 
-My father is the owner of Dtassociates Painting and although he loves his website I am not it's biggest fan. This project will be my attempt to give his website a new and updated look.
+My father is the owner of D.T. Associates Painting and Powerwashing, and although he loves his website, I am not its biggest fan. This project will be my attempt to give his website a new and updated look.
 
 ## Background
 
